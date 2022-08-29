@@ -24,36 +24,7 @@ img#hero{
     margin: 10px 0px 10px 0px;
 }
 
-img#fight{
-    border-radius: 10%;
-
-}
-
-img#shot{
+img{
     margin-top: 20px;
-    border-radius: 10%;
-}
-
-img#lance{
-    border-radius: 10%;
-}
-
-img#kb-alley{
-    border-radius: 10%;
-}
-
-img#lakers-championship{
-    border-radius: 10%;
-}
-
-img#kb-backpack{
-    border-radius: 10%;
-}
-
-img#shaq-vs-robinson{
-    border-radius: 10%;
-}
-
-img#kb-game-winner{
     border-radius: 10%;
 }
