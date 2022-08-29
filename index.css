@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: purple;   
+}
+
+h1#titulo{
+    font-size: 200px;
+    color: gold;
+    font-family: 'Lakers', sans-serif;
+}
+
+img#hero{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+img#fight{
+    border-radius: 10%;
+
+}
+
+img#shot{
+    margin-top: 20px;
+    border-radius: 10%;
+}
+
+img#lance{
+    border-radius: 10%;
+}
+
+img#kb-alley{
+    border-radius: 10%;
+}
+
+img#lakers-championship{
+    border-radius: 10%;
+}
+
+img#kb-backpack{
+    border-radius: 10%;
+}
+
+img#shaq-vs-robinson{
+    border-radius: 10%;
+}
+
+img#kb-game-winner{
+    border-radius: 10%;
+}
