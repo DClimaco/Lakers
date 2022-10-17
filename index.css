@@ -25,6 +25,10 @@ img#hero{
 }
 
 img{
+    align-items: center;
+    height: 20vw;
+    width: 30vw;
     margin-top: 20px;
+    margin-left: 30px;
     border-radius: 10%;
 }
